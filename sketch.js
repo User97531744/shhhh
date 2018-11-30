@@ -1,5 +1,5 @@
 function setup() {
-	createCanvas(displayWidth*2 - 10, displayHeight*2 - 82);
+	createCanvas(displayWidth - 10, displayHeight - 82);
 	//createCanvas(displayWidth/window.devicePixelRatio-10, displayHeight/window.devicePixelRatio - 82);
 	//rate of rotation
 	speed = 8;
